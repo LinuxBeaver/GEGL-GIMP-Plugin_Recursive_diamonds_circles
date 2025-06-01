@@ -15,11 +15,11 @@ Render recursive diamond and circle wallpaper using this GIMP Plugin.
 
  **Linux**
 
- /home/(USERNAME)/.local/share/gegl-0.4/plug-ins
+`~/.local/share/gegl-0.4/plug-ins`
 
  **Linux (Flatpak includes Chromebook)**
 
- /home/(USERNAME)/.var/app/org.gimp.GIMP/data/gegl-0.4/plug-ins
+`~/.var/app/org.gimp.GIMP/data/gegl-0.4/plug-ins`
 
 Then Restart Gimp and go to GEGL Operations and look for "Recursive Diamonds/Circles" in the drop down list,
 Gimp 2.99.16+ users will find the filter in filters>render>fun. 2.10 users will only see it in the GEGL operations drop down list.
