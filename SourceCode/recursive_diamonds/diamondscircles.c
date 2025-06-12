@@ -13,7 +13,7 @@
  * You should have received a copy of the GNU Lesser General Public
  * License along with GEGL; if not, see <https://www.gnu.org/licenses/>.
  *
- * Copyright 2006 Øyvind Kolås <pippin@gimp.org>
+ * Credit to Øvind Kolas (pippin) for major GEGL contributions
 *  2017 Thomas Manni (for making segment kmeans in GEGL workshop his filter was labeled port) 
  * 2024, beaver, Recursive Diamonds/Circles
 
